@@ -14,4 +14,17 @@
 /home/marcell/dev/git/playground-ionic/myApp/platforms/android/res/values/strings.xml \
 /home/marcell/dev/git/playground-ionic/myApp/platforms/android/res/drawable-xhdpi/icon.png \
 /home/marcell/dev/git/playground-ionic/myApp/platforms/android/res/xml/config.xml \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable/icon.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
 /home/marcell/dev/git/playground-ionic/myApp/platforms/android/ant-build/AndroidManifest.xml \
